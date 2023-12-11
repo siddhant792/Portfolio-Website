@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/git@github.com:siddhant792/portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/git@github.com:siddhant792/portfolio/static/js/main.45487b77.js",
-    "static/media/HeroImage.jpg": "/git@github.com:siddhant792/portfolio/static/media/HeroImage.13b2199fcb2b4dc28e5e.jpg",
-    "index.html": "/git@github.com:siddhant792/portfolio/index.html",
-    "main.bf538fe7.css.map": "/git@github.com:siddhant792/portfolio/static/css/main.bf538fe7.css.map",
-    "main.45487b77.js.map": "/git@github.com:siddhant792/portfolio/static/js/main.45487b77.js.map"
+    "main.css": "/Portfolio-Website/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio-Website/static/js/main.c0620bd0.js",
+    "static/media/HeroImage.jpg": "/Portfolio-Website/static/media/HeroImage.13b2199fcb2b4dc28e5e.jpg",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.bf538fe7.css.map": "/Portfolio-Website/static/css/main.bf538fe7.css.map",
+    "main.c0620bd0.js.map": "/Portfolio-Website/static/js/main.c0620bd0.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.45487b77.js"
+    "static/js/main.c0620bd0.js"
   ]
 }
