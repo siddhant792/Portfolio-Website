@@ -257,7 +257,7 @@ export const education = [
     school: "Deakin University",
     date: "November 2023 - Present",
     grade: "85%",
-    desc: "Pursuing Master's in Information Technology with a focus on Software Development and Services at [University], cultivating expertise in cutting-edge technologies.",
+    desc: "Pursuing Master's in Information Technology with a focus on Software Development and Services, cultivating expertise in cutting-edge technologies.",
     degree: "Master of Information Technology (Professional)",
   },
   {
