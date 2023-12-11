@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/git@github.com:siddhant792/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/git@github.com:siddhant792/portfolio/static/js/main.45487b77.js",
+    "static/media/HeroImage.jpg": "/git@github.com:siddhant792/portfolio/static/media/HeroImage.13b2199fcb2b4dc28e5e.jpg",
+    "index.html": "/git@github.com:siddhant792/portfolio/index.html",
+    "main.bf538fe7.css.map": "/git@github.com:siddhant792/portfolio/static/css/main.bf538fe7.css.map",
+    "main.45487b77.js.map": "/git@github.com:siddhant792/portfolio/static/js/main.45487b77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.45487b77.js"
+  ]
+}
