@@ -1,7 +1,7 @@
 {
   "name": "siddhant-portfolio",
   "version": "0.1.0",
-  "homepage": "https://siddhant792.github.io/git@github.com:siddhant792/portfolio",
+  "homepage": "https://siddhant792.github.io/Portfolio-Website",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
