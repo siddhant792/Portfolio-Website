@@ -7,7 +7,7 @@ export const Bio = {
   ],
   description: "Tech maverick, not your average developer! Mastering Python, Django, React, Google Cloud Platform, and more. With 3+ years of brilliance, let's create digital masterpieces together. Unleash creativity, conquer challenges!",
   github: "https://github.com/siddhant792",
-  resume: "https://drive.google.com/file/d/18VZvCi8B9-Bg0jS14uARliovLBEcbtV2/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/12B02-97-D2V21gTJgrwPT3zSURVUAgDt/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/siddhant-gupta-in/",
   insta: "https://www.instagram.com/siddhant_792/",
   facebook: "https://www.facebook.com/siddhant.gupta.71465/",
@@ -21,6 +21,11 @@ export const skills = [
         name: "React JS",
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+      },
+      {
+        name: "Vue.js",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png",
       },
       {
         name: "Redux",
@@ -40,6 +45,11 @@ export const skills = [
         name: "CSS",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+      },
+      {
+        name: "Tailwind CSS",
+        image:
+          "https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png",
       },
       {
         name: "JavaScript",
@@ -120,7 +130,7 @@ export const skills = [
       {
         name: "Pub/Sub",
         image:
-          "https://cdn-ankpc.nitrocdn.com/CXPATxiuOnLCmBDTxjvMhJHZsrQOcxUs/assets/images/optimized/rev-e9344b0/www.striim.com/wp-content/themes/striim2022/images/connectors_icons/white/googlecloudpubsub.png",
+          "https://iconape.com/wp-content/png_logo_vector/google-cloud-pub-sub-logo.png",
       },
       {
         name: "Cloud Function",
@@ -160,7 +170,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png",
       },
       {
         name: "GitHub",
@@ -185,7 +195,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png?f=webp&w=256",
       },
       {
         name: "Python",
@@ -204,6 +214,21 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://australianfintech.com.au/company/lensell/lensell/",
+    role: "Software Developer",
+    company: "Lensell Group",
+    date: "January 2024 - Present",
+    desc: "As a Software Developer at Lensell Group, designed UI/UX layouts in Figma, enhancing user retention and reducing bounce rates. Led Vue.js interface redesign, increasing traffic by 80%. Mentored interns, reducing bugs by 30%, and collaborated with marketing to optimize the website, boosting conversion rates and visitor engagement.",
+    skills: [
+      "PHP",
+      "Vue.js",
+      "JavaScript",
+      "Docker",
+      "UI/UX",
+    ]
+  },
+  {
+    id: 1,
     img: "https://s3.amazonaws.com/jtg-marcomm/wp-content/uploads/2019/08/09103837/jtg-logo.png",
     role: "Software Developer",
     company: "Josh Technology Group",
@@ -219,7 +244,7 @@ export const experiences = [
     ]
   },
   {
-    id: 1,
+    id: 2,
     img: "https://s3.amazonaws.com/jtg-marcomm/wp-content/uploads/2019/08/09103837/jtg-logo.png",
     role: "Software Developer Intern",
     company: "Josh Technology Group",
@@ -234,7 +259,7 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiFtFVBSiyqZaWqON2qSbcr-HELa1Bfsw6uDP-KR74c0GYx2u1RZxtWKCWSnAMCYteZs&usqp=CAU",
     role: "Android Developer",
     company: "CranesMart",
